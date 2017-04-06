@@ -1,6 +1,6 @@
 body {
 	background-image: url("https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/09/23/636102055091786055-14007062_happy.jpg");
-	background-size: 2000px 1000px;
+	background-size: 1500px 500px;
 	background-repeat: no-repeat;
 	background-position: top;
 
@@ -11,7 +11,7 @@ body {
 	text-align: left;
 	text-shadow: 2px 1px black;
 	font-family: "courier new";
-	font-size: 85px;
+	font-size: 55px;
 	font-weight: bold;
 	line-height: 1;
 	
@@ -22,7 +22,7 @@ body {
 	text-align: right;
 	text-shadow: 2px 1px black;
 	font-family: "courier new";
-	font-size: 85px;
+	font-size: 55px;
 	font-weight: bold;
 	line-height: 1;
 
@@ -33,7 +33,7 @@ body {
 	text-align: center;
 	text-shadow: 2px 1px black;
 	font-family: "courier new";
-	font-size: 85px;
+	font-size: 55px;
 	font-weight: bold;
 	line-height: 1;
 
@@ -44,7 +44,7 @@ body {
 	text-shadow: 1px .5px lightgreen;
 	text-align: center;
 	font-family: "courier new";
-	font-size: 50px;
+	font-size: 25px;
 	font-weight: normal;
 	line-height: 1;
 	border: 2px solid lightgreen;
@@ -58,7 +58,7 @@ body {
 	color: black;
 	text-align: center;
 	font-family: "courier new";
-	font-size: 85px;
+	font-size: 40px;
 	font-weight: normal;
 	line-height: 1;
 	margin: 15px 1200px 10px 100px;
@@ -68,7 +68,7 @@ body {
 	color: white;
 	text-align: center;
 	font-family: "courier new";
-	font-size: 45px;
+	font-size: 25px;
 	font-weight: normal;
 	line-height: 1;
 	margin: 10px 1200px 10px 100px;
@@ -79,7 +79,7 @@ body {
 	
 	text-align: center;
 	font-family: "courier new";
-	font-size: 100px;
+	font-size: 70px;
 	font-weight: normal;
 	line-height: 1;
 	
@@ -96,7 +96,7 @@ ul {
 	color: green;
 	text-align: center;
 	font-family: "courier new";
-	font-size: 85px;
+	font-size: 55px;
 	font-weight: normal;
 	line-height: 1;
 	border: 2px solid lightgreen;
