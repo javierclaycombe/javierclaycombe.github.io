@@ -1,64 +1,43 @@
-body {
-	background-image: url("https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/09/23/636102055091786055-14007062_happy.jpg");
-	background-size: 1500px 660px;
-	background-repeat: no-repeat;
-	background-position: top;
+@import {
+	url(<link href="https://fonts.googleapis.com/css?family=Raleway" rel=")
+}
+
+html {
+	background-color: white;
+	margin: 0em;
 
 }
 
-#express {
-	color: white;
-	text-align: left;
-	text-shadow: 2px 1px black;
-	font-family: "courier new";
-	font-size: 55px;
-	font-weight: bold;
-	line-height: 1;
-	
-}
 
-#express2 {
-	color: white;
-	text-align: right;
-	text-shadow: 2px 1px black;
-	font-family: "courier new";
-	font-size: 55px;
-	font-weight: bold;
-	line-height: 1;
-
-}
-
-#express3 {
-	color: white;
-	text-align: center;
-	text-shadow: 2px 1px black;
-	font-family: "courier new";
-	font-size: 55px;
-	font-weight: bold;
-	line-height: 1;
-
+#start {
+	margin: .2em;
+	background-image: url("Javi Running.jpg");
+	background-size: 80em;
+	background-repeat:no-repeat;
+	background-position:;
 }
 
 #getter {
-	color: green;
-	text-shadow: 1px .5px lightgreen;
+	color: lightgreen;
+	text-shadow:;
 	text-align: center;
 	font-family: "courier new";
-	font-size: 30px;
+	font-size: 1.4em;
 	font-weight: normal;
-	line-height: 1;
+	line-height: 1em;
 	border: 2px solid lightgreen;
 	border-radius: 20px;
 	border-width: 1px 1px 1px 1px;
 	background: white;
-	margin: 0px 850px 10px 100px;
+	margin: 15px 850px 10px 100px;
 }
 
 #info {
-	color: black;
+	color: white;
 	text-align: justify;
+	font-variant:;
 	font-family: "courier new";
-	font-size: 60px;
+	font-size: 3.8em;
 	font-weight: normal;
 	line-height: 1;
 	margin: 15px 850px 10px 100px;
@@ -68,40 +47,117 @@ body {
 	color: white;
 	text-align: center;
 	font-family: "courier new";
-	font-size: 25px;
+	font-variant: small-caps;
+	font-size: 2.5em;
 	font-weight: normal;
 	line-height: 1;
-	margin: 10px 850px 10px 100px;
+	margin: 10px 100px 10px 850px;
 }
+
+
 
 #goal {
 	color: green;
 	
 	text-align: center;
 	font-family: "courier new";
-	font-size: 70px;
+	font-size: 4.5em;
 	font-weight: normal;
 	line-height: 1;
 	
 	background: white;
+
+}
+
+
+
+#express {
+	color: black;
+	text-align: center;
+	font-variant: small-caps;
+	text-shadow:;
+	font-family: "courier new";
+	font-size: 2.5em;
+	font-weight: normal;
+	line-height: 2em;
+	background: white;
+	margin: 1.5em;
 	
 }
 
-html {
+
+h4 {
 	background-color: lightgreen;
-	background-position: top;
+
 }
 
-ul {
-	color: green;
+
+#express2 {
+	color: white;
 	text-align: center;
-	font-family: "courier new";
+	text-shadow:;
+	font-family: "Raleway";
 	font-size: 55px;
 	font-weight: normal;
 	line-height: 1;
-	border: 2px solid lightgreen;
-	border-radius: 20px;
-	border-width: 1px 1px 1px 1px;
-	background: white;
-	margin: 5px 300px 50px 300px;
+
+}
+
+
+#express3 {
+	color: white;
+	text-align: center;
+	text-shadow:;
+	font-family: "Raleway";
+	font-size: 55px;
+	font-weight: normal;
+	line-height: 1;
+
+}
+
+
+#comcast {
+	
+text-align: justify;
+font-size: 2em;
+color: black;
+background-color: white;
+margin: 6em;
+
+}
+
+#suburban {
+	
+text-align: center;
+color: red;
+background-color: white;
+
+
+}
+
+#power {
+	
+text-align: center;
+color: red;
+background-color: white;
+
+
+}
+
+#apple {
+	
+text-align: center;
+color: red;
+background-color: white;
+
+
+}
+
+#best {
+
+text-align: center;
+color: red;
+background-color: white;
+
+
 }
